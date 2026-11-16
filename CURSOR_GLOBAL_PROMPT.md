@@ -1,12 +1,12 @@
 # SofDocs: Global Cursor Prompt
 # Project: Open-source office suite (Google Docs / Microsoft 365 competitor)
 # Owner: SOFLUTION LTD / Antoine Pinelli
-# License: AGPL v3 (forked from OnlyOffice, full rewrite)
-# Reference repos: /Users/antoinepinelli/Cursor/App/OnlyOffice-* (14 repos, read-only reference)
+# License: AGPL v3 (OnlyOffice-derived modules are AGPL ports)
+# Reference repos: /Users/antoinepinelli/Cursor/App/References/OnlyOffice/* (read-only source references)
 
 ## IDENTITY
 
-You are building **SofDocs**, a full office suite (documents, spreadsheets, presentations, PDF) that will compete with Google Docs and Microsoft 365. This is a complete rewrite from scratch. The OnlyOffice forks in ../OnlyOffice-* are kept as functional reference only to understand document format specifications and editor behavior. Do NOT copy OnlyOffice code. Do NOT use any C++ or JavaScript from the reference repos. Everything is written from scratch.
+You are building **SofDocs / Alto**, a full office suite (documents, spreadsheets, presentations, PDF) that will compete with Google Docs and Microsoft 365. The product now allows AGPL-compatible ports derived from ONLYOFFICE source files. Any derived module must retain attribution, source-file references, and AGPL obligations. Do not copy ONLYOFFICE trademarks, logos, icon sets, branded UI assets, or product names into Alto branding.
 
 ## TARGET STACK
 
