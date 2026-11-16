@@ -10,6 +10,3 @@
 [submodule "apps/web"]
 	path = apps/web
 	url = git@github.com:Soflution1/sofdocs-web.git
-[submodule "apps/desktop"]
-	path = apps/desktop
-	url = https://github.com/Soflution1/sofdocs-desktop.git

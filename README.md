@@ -220,8 +220,11 @@ git clone --recurse-submodules https://github.com/Soflution1/SofDocs.git
 
 ### Build the desktop app
 
+The desktop app lives in its own repository, [Soflutionltd/sofdocs-desktop](https://github.com/Soflutionltd/sofdocs-desktop).
+
 ```bash
-cd apps/desktop
+git clone https://github.com/Soflutionltd/sofdocs-desktop.git
+cd sofdocs-desktop
 
 # Development build
 cargo tauri build --debug
